@@ -25,7 +25,7 @@ const About = () => {
 
         {/* Imagen personal */}
         <img
-          src="public/me2.jpg"
+          src="public/me.png"
           alt={personalImageAlt}
           className="order-1 object-cover w-64 h-64 p-1 md:order-2 rotate-3 lg:p-2 rounded-2xl bg-black/20 dark:bg-yellow-500/5 ring-1 ring-black/70 dark:ring-white/20"
         />

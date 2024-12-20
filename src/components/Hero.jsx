@@ -6,7 +6,7 @@ const Hero = () => {
       {/* Imagen */}
       <div className="w-40 h-42 rounded-full overflow-hidden border-4 border-yellow-400 shadow-lg mb-6">
         <img
-          src="public/me2.jpg" // Asegúrate de que la ruta sea correcta y esté en la carpeta public
+          src="public/me.png" // Asegúrate de que la ruta sea correcta y esté en la carpeta public
           alt="Fernando Marcos"
           className="w-full h-full object-cover"
         />
